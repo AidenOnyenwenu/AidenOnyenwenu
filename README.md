@@ -8,7 +8,7 @@ I'm a student Software Developer! ✨ I'm a very fast learner in most programmin
 
 Student, full stack developer <br>
 Started coding in 2019 <br>
-Over 3 years of experience with HTML and over 2 with CSS <br>
+Over 2 years of experience with HTML and CSS <br>
 Willing to learn new things all the time, and work in teams 😄 <br>
 Always down to chat! Contact me on one of the platforms down below! 
 
