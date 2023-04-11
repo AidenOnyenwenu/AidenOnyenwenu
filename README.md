@@ -1,6 +1,6 @@
 # Hi there, I'm Aiden Onyenwenu! 👋 
 
-I'm a student Software Developer! ✨ I'm a very fast learner in most programming languages; My focus is currently on: TailwindCSS (and PHP 👀) & React.js (with TSX, of course). I've also experimented with Java, C# and a bit of Discord.py 😄
+I'm a student Software Developer! ✨ I'm a very fast learner in most programming languages; My focus is currently on: TailwindCSS, PHP 👀 & React.js. I've also experimented with Java, C# and a bit of Discord.py 😄
 
 ![](https://komarev.com/ghpvc/?username=AidenistooOP)
 
