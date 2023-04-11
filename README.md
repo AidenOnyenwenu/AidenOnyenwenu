@@ -48,7 +48,7 @@ You can reach out to me on a multitude of platforms!
 <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" width="20px"> Instagram: [040aiden](https://instagram.com/040aiden/) <br> <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B0JME96) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenistooOP&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenistooOP&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidenistooOP)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> <br> <br>
