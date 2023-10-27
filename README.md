@@ -15,5 +15,4 @@ You can reach out to me on a multitude of platforms!
 <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" width="20px"> Instagram: [040aiden](https://instagram.com/040aiden/) <br> <br>
 ![](https://komarev.com/ghpvc/?username=aidenistooop&label=PROFILE+VIEWS)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/931844901182799932)](https://discord.com/users/931844901182799932) <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenistooOP&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
