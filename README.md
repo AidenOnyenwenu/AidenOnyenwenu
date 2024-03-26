@@ -1,3 +1,7 @@
+# 👋🏼 Hi, my name is Aiden!
+
+Welcome to my Github page.
+
 ## 📫 How to reach me?
 
 You can reach out to me on a multitude of platforms!
