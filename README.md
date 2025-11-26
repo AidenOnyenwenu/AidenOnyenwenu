@@ -1,21 +1,58 @@
-# 👋🏼 Hi, my name is Aiden!
+<div align="center">
 
-Welcome to my Github page.
+# 👋 Hi, I'm Aiden Onyenwenu
 
-## 📫 How to reach me?
+### Developer | Entrepreneur | Founder
 
-You can reach out to me on a multitude of platforms!
+<p align="center">
+  <a href="https://predact.nl">
+    <img src="https://img.shields.io/badge/🚀_Predact-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Predact"/>
+  </a>
+  <a href="https://dagjeopweg.nl">
+    <img src="https://img.shields.io/badge/🚗_Dagje_Op_Weg-FF6B6B?style=for-the-badge&logo=maps&logoColor=white" alt="Dagje Op Weg"/>
+  </a>
+</p>
 
+---
 
+### 🚀 About Me
 
+I am a passionate developer and entrepreneur focused on building scalable solutions. I am currently building companies in the tech and leisure industry.
 
+* 🏢 **Founder of:** [Predact](https://predact.nl) & [Dagje Op Weg](https://dagjeopweg.nl)
+* 🌱 **Focus:** Full Stack Development & Business Strategy
+* 💬 **Ask me about:** Tech Entrepreneurship & System Architecture
 
+---
 
+### 📫 Connect with me
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="20px"> Gmail :  aiden@predact.nl <br>
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20px"> Discord  : [Aiden](https://discord.gg/nBfTcMprrC) <br>
-<img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" width="20px"> LinkedIn : [Aiden Onyenwenu](https://www.linkedin.com/in/aiden-onyenwenu/) <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="20px"> NPMjs : [Aiden Onyenwenu](https://www.npmjs.com/~aidenonyenwenu) <br> <br>
-![](https://komarev.com/ghpvc/?username=aidenonyenwenu&label=PROFILE+VIEWS)
+<p align="center">
+  <a href="mailto:aiden@predact.nl">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aiden-onyenwenu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.npmjs.com/~aidenonyenwenu">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  </a>
+  <a href="https://discord.gg/nBfTcMprrC">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidenOnyenwenu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AidenOnyenwenu&show_icons=true&theme=radical&hide_border=true" alt="Aiden's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenOnyenwenu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aidenonyenwenu&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
+
+</div>
