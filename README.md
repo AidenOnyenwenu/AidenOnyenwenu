@@ -1,10 +1,10 @@
-#Aiden Onyenwenu
+Aiden Onyenwenu
 
 Oprichter van Predact Software. Gespecialiseerd in het bouwen van schaalbare softwareoplossingen, SaaS-platformen en moderne websystemen met een sterke focus op schone architectuur, performance en onderhoudbaarheid.
 
 Momenteel studeer ik Software Development aan het Summa College, terwijl ik actief werk aan commerciële softwareprojecten binnen zowel front-end als back-end development. Mijn werk richt zich op het ontwikkelen van gestructureerde digitale systemen met nadruk op efficiëntie, gebruiksvriendelijkheid en lange termijn schaalbaarheid.
 
-##Focusgebieden
+Focusgebieden
 
 * SaaS-ontwikkeling
 * Webapplicatie architectuur
@@ -14,7 +14,7 @@ Momenteel studeer ik Software Development aan het Summa College, terwijl ik acti
 * WordPress & maatwerk development
 * Automatisering & integraties
 
-##Technologieën
+Technologieën
 
 * PHP
 * JavaScript
@@ -25,7 +25,7 @@ Momenteel studeer ik Software Development aan het Summa College, terwijl ik acti
 * REST APIs
 * Git
 
-##Contact
+Contact
 
 * Email: aiden@predact.nl
 * Website: https://predact.nl
